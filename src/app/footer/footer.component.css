@@ -1,0 +1,21 @@
+footer {
+  background-color: #f9f9f9;
+  border: 1px solid rgba(204, 204, 204, 0.4);
+  padding: var(--space_small) var(--space_medium);
+
+  width: 100%;
+
+  color: #979797;
+  font-size: var(--font_small);
+}
+
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-list li {
+  display: inline-block;
+  margin: 0 var(--space_medium);
+}

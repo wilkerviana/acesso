@@ -1,0 +1,12 @@
+:root {
+
+  /* SPACERS */
+  --space_small: .75rem;
+  --space_medium: 1.5rem;
+  --space_large: 2rem;
+
+  /* FONTS */
+  --font_small: .75rem;
+  --font_default: 1rem;
+  --font_large: 1.250rem;
+}
